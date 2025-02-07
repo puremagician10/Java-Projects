@@ -31,11 +31,11 @@ C. Error Handling
 3. Architecture Highlights
 
 Component | purpose
-Task Class - Models a task with properties (ID, description, due date, status).
-ArrayList<Task> - Stores tasks in memory during runtime.
-loadTasksFromFile()	- Loads tasks from tasks.txt on startup.
-saveTasksToFile() - Saves tasks to tasks.txt before exiting.
-Menu-Driven Interface - Provides a user-friendly console UI with numbered options.
+1. Task Class - Models a task with properties (ID, description, due date, status).
+2. ArrayList<Task> - Stores tasks in memory during runtime.
+3. loadTasksFromFile()	- Loads tasks from tasks.txt on startup.
+4. saveTasksToFile() - Saves tasks to tasks.txt before exiting.
+5. Menu-Driven Interface - Provides a user-friendly console UI with numbered options.
 
 
 
