@@ -1,5 +1,7 @@
 Task Manager with File Storage
+
 Objective:
+
 Create a console-based task manager that lets users add, view, update, and delete tasks, with persistent storage in a text file.
 -----------------------------------------------------------------------------------------------------------------------------------
 
